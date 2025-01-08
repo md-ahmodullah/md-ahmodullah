@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer passionate about crafting clean and functional user interfaces. I specialize in React and Tailwind CSS. While I've just started working with Node.js, Express, and MongoDB, I’m steadily building my full-stack skills.<br><br>✨ Creating bugs since 2020<br>🌱 Currently Learning: Diving deeper into backend technologies and exploring MERN stack projects<br>🎯 Goals: Master Next.js, TypeScript, and Redux Toolkit<br>🎲 Fun fact: Building a Tailwind component library called LazyUI for fellow lazy coders!<br>🚀 Let's collaborate and create something extraordinary!<br><br>Feel free to explore my repositories and ⭐ the ones you like! 😊</p>
+<p align="left">I'm a Frontend Developer passionate about crafting clean and functional user interfaces. I specialize in React and Tailwind CSS. While I've just started working with Node.js, Express, and MongoDB, I’m steadily building my full-stack skills.<br><br>✨ Creating bugs since 2019<br>🌱 Currently Learning: Diving deeper into backend technologies and exploring MERN stack projects<br>🎯 Goals: Master Next.js, TypeScript, and Redux Toolkit<br>🎲 Fun fact: Building a Tailwind component library called LazyUI for fellow lazy coders!<br>🚀 Let's collaborate and create something extraordinary!<br><br>Feel free to explore my repositories and ⭐ the ones you like! 😊</p>
 
 ###
 
