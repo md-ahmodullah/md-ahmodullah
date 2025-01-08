@@ -6,8 +6,6 @@
 
 <h2 align="left">Md Ahmodullah</h2>
 
-###
-
 <h3 align="left">Frontend Developer</h3>
 
 ###
@@ -19,10 +17,6 @@
 ###
 
 <h2 align="center">About me</h2>
-
-###
-
-<p align="left">I'm a passionate Frontend Developer diving deep into the MERN stack. I love crafting intuitive and dynamic web experiences using React, TailwindCSS, and JavaScript.</p>
 
 ###
 
