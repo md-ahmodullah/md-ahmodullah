@@ -10,12 +10,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=md-ahmodullah.md-ahmodullah&left_color=darkmagenta&right_color=darkslateblue&left_text=Profile%20Views"  />
-</div>
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
