@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="100%" src="https://i.ibb.co.com/tCm3CMm/Neutral-Modern-Web-Developer-Linked-In-Banner.png"  />
+  <img height="200" src="https://i.ibb.co.com/tCm3CMm/Neutral-Modern-Web-Developer-Linked-In-Banner.png"  />
 </div>
 
 ###
